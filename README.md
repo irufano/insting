@@ -1,2 +1,2 @@
 # insting
-Indusrial Forecasting
+Industrial Forecasting in Indonesia using trend Projection Method
